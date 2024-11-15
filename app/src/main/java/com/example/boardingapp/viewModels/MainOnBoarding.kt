@@ -24,7 +24,7 @@ fun MainOnBoarding(navController: NavController, store: StoreBoarding){
         PageData(
             R.raw.page1,
             "Bienvenido",
-            "Bienvenido a la app de onBoarding"
+            "Bienvenido a mi app onBoardingApp"
         )
     )
 
@@ -32,7 +32,7 @@ fun MainOnBoarding(navController: NavController, store: StoreBoarding){
         PageData(
             R.raw.page2,
             "Uso de onBoarding",
-            "Mostrando una descripcion en la pagina 2"
+            "Mostrando una descripción en la página 2 :D"
         )
     )
 
@@ -40,7 +40,7 @@ fun MainOnBoarding(navController: NavController, store: StoreBoarding){
         PageData(
             R.raw.page3,
             "Despedida",
-            "Pagina final del onBoarding"
+            "Página final de onBoardingApp :c"
         )
     )
 
